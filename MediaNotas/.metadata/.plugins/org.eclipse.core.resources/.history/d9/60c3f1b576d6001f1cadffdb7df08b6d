@@ -1,0 +1,19 @@
+package Media.Notas;
+import java.util.Scanner;
+
+public class MediaDeNotas {
+	public static void main(String[] args) {
+		notas();
+		
+	}
+	
+	public static void notas() {
+		Scanner entrada = new Scanner(System.in);
+		int n1;
+		
+		System.out.println("Digite a primeira nota: ");
+		n1 = entrada.nextInt();
+		
+		System.out.printf("A primeira nota é: "+ n1 + "\n");
+	}
+}
