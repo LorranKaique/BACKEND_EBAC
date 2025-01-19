@@ -1,0 +1,12 @@
+package br.com.mont;
+
+public class BotaoLigar {
+	//atributos
+	String resposta;
+	int velocidade = 0;
+	void acelerar(int velocidade) {
+		
+	}
+	
+	
+}
