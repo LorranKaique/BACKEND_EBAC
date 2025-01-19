@@ -1,0 +1,44 @@
+A programação procedural 
+É um paradigma de programação que funciona ao organizar o código em procedimentos e/ou funções modulares. Eles são reutilizáveis, o que permite que sejam reutilizáveis e de fácil manutenção.
+Além disso, esse modo de programação segue alguns conceitos como: 
+-Modularidade. Divide o programa em procedimentos menores;
+-Reutilização. O programador pode chamar um procedimento já criado para utilizar novamente;
+-Abordagem Top-Down. Cria uma estrutura hierárquica que projeta o programa do nível mais alto, e o divide em procedimentos menores para lidar com operações de baixo nível.
+
+
+Programação Orientada à Objetos(POO)
+é um paradigma de programação que permite tornar a programação mais "real" ao individualizar/criar objetos que possuem seus próprios atributos.
+A poo possui 4 fundamentos básicos: Encapsulamento,Herança,Polimorfismo,Abstração.
+
+Em relação à programação procedural, a poo é melhor na confiabilidade e eficiência, visto que se algo é alterado no programa, não interfere no todo, e o processo de construção é fluido e consistente.
+
+
+
+Algoritmo de fazer um suco de melão em portugol
+
+INÍCIO
+     	1. andar até o cesto de frutas
+	2. pegar o melão
+	3. ir até o balcão de preparo
+	4. deixar o melão no balcão
+	5. ir até a gavela de facas
+	6. abrir a gaveta de facas
+	7. pegar uma faca
+	8. fechar a gaveta de facas
+	9.ir até o balcão
+	10.cortar o melão em fatias
+	11.tirar as sementes das fatias
+	12.tirar a casca das fatias
+	13.cortar as fatias em cubos
+	14.colocar no liquidificador
+	15 acrescentar água ao liquidificador
+	16.ligar o liquidificador
+	16.1 deixar batendo por 1 min
+	17.experimentar a mistura
+	18.se a mistura estiver sem doce;
+		1.adicionar uma colher de açúcar
+		2.ligue o liquidificador
+		3.bata por 1 min
+		4.sirva-se
+	19.se a mistura estiver doce
+		1.sirva-se
