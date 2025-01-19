@@ -1,0 +1,24 @@
+package br.com.lfernandes;
+
+public class total {
+	public static void main(String args[]) {
+		int n1 = 1000000;
+		casting(n1);
+		wrappers(n1);
+	}
+
+	public static void casting(int n1) {
+		int valorPrimitivo = n1;//declarei a variável primitiva
+		double valor1 = valorPrimitivo;//realizei um casting Implicito
+		System.out.println(valor1);
+		byte valor2 = (byte)valor1;//realizei um casting explicito
+		System.out.println(valor2);//sáida deu resultado diferente pois byte < int
+		long valor3 = valorPrimitivo;
+		System.out.println(valor3);//novamente realizei um casting implicito
+	}
+	
+	public static void wrappers(int n1) {
+		Integer a = Integer.valueOf(n1);
+		System.out.println(a);
+	}
+}

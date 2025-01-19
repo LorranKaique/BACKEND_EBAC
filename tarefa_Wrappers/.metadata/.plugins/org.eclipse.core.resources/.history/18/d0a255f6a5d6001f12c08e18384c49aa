@@ -1,0 +1,11 @@
+package br.com.lfernandes;
+
+public class wrappers {
+	public static void main(String args[]) {
+		int valorPrimitivo = 10;
+		double valor1 = valorPrimitivo;//
+		System.out.println(valor1);
+		
+	}
+
+}

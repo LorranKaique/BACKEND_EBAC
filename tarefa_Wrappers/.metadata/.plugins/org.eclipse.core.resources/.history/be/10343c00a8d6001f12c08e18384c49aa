@@ -1,0 +1,12 @@
+package br.com.lfernandes;
+
+public class wrappers {
+	public static void main(String args[]) {
+		int valorPrimitivo = 1000000000;//declarei a variável primitiva
+		double valor1 = valorPrimitivo;//realizei um casting Implicito
+		System.out.println(valor1);
+		byte valor2 = (byte)valor1;//realizei um casting explicito
+		System.out.println(valor2);
+	}
+
+}
