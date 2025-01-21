@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Usuário\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\Colecoes-parte-1-atv\.metadata\.plugins\org.eclipse.jdt.core
+96686551.index
+1865797976.index
+3996827656.index
