@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Usuário\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\tarefa_colecoes_m12\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3996827656.index
+3911461360.index
